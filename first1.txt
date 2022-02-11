@@ -1,2 +1,3 @@
 first file
-Second line added
+Second line addeed
+Third line
